@@ -1,6 +1,6 @@
 # Django Web Project - Float by Siddhant Pandya
 
-A Django based project to share your work, ideas etc on web platform and get inspired by others, a comunity dedicated to grow and improve ones skills.
+A Django based project to share your work, ideas etc on web platform and get inspired by others, a community dedicated to grow and improve ones skills.
 
 ## Setup
 
